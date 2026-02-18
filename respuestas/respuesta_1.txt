@@ -1,2 +1,1 @@
-TIPO | Justificación corta
-Base de datos de grafos | Modela naturalmente relaciones y recorridos (traversals) frecuentes entre usuarios, intereses y eventos, facilitando consultas de conexiones indirectas.
+GRAFOS | Relaciones complejas y recorridos frecuentes entre entidades con análisis de conexiones indirectas
