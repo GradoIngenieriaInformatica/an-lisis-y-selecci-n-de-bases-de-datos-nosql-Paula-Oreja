@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+GRAFOS | Relaciones complejas y recorridos frecuentes entre entidades con análisis de conexiones indirectas

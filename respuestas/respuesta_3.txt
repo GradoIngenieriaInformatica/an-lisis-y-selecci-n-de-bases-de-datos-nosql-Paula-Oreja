@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+TIEMPO-SERIE | Ingesta masiva de lecturas y consultas eficientes por rangos temporales

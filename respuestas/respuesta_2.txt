@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+DOCUMENTOS | Estructura flexible con campos opcionales y cambios de esquema frecuentes sin migraciones costosas
